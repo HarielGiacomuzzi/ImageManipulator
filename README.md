@@ -1,4 +1,4 @@
 ImageManipulator
 ================
 
-This is a simple image manipulator programm in C# for studies
+This is a simple image manipulator program in C# for studies
